@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP KGM15BR71E104KT
+D 0603 25 V X7R 100nF +/-10%
+K
+F https://spicat.kyocera-avx.com/product/mlcc/chartview/KGM15BR71E104KT
+$ENDCMP
+#
+#End Doc Library

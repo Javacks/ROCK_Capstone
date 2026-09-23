@@ -1,0 +1,9 @@
+Manufacturer=TDK
+PartNumber=SLF12575T-150M4R7-PF
+PartCategory=Inductor
+PackageCategory=Other
+PinCount=2
+Version=3.1
+Released=2020-04-23 12:56:10
+Downloaded=2026-04-20 00:13:15
+3D=Y

@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'SLF12575T_150M4R7_PF'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET";
+{========================================================================================}
+ "TDK", "SLF12575T-150M4R7-PF" (!) = "", "SLF12575", "Other", "810-SLF12575T-150M", "https://www.mouser.co.uk/ProductDetail/TDK/SLF12575T-150M4R7-PF?qs=70au2ePzUrHCA64L9PZ1nA%3D%3D", "SLF12575T-150M4R7-PF", "https://www.arrow.com/en/products/slf12575t-150m4r7-pf/tdk?region=nac", "TDK SLF12575 Series Wire-wound SMD Inductor 15 uH +/-20% 5A Idc", "https://product.tdk.com/system/files/dam/doc/product/inductor/inductor/smd/catalog/inductor_commercial_power_slf12575_en.pdf"
+END_PART
+
+END.

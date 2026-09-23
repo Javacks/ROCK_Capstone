@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=CSD18513Q5A
+PartCategory=MOSFET (N-Channel)
+PackageCategory=Other
+PinCount=8
+Version=1.1
+Released=2018-10-28 03:00:45
+Downloaded=2026-04-20 06:28:36
+3D=Y

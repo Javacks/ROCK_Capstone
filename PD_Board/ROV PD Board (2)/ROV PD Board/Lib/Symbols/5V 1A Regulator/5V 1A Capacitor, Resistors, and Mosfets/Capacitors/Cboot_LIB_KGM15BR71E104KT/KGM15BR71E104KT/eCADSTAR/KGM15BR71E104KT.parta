@@ -1,0 +1,68 @@
+(Japanese_coding: sjis)
+(function "ECS_18364528"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2024-02-18-13:01:57)
+    (utime 2024-04-02-12:57:52)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "KGM15BR71E104KT")
+)
+
+
+(pinAssign "ECS_18364528"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2024-02-18-13:01:57)
+    (utime 2024-04-02-12:57:52)
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_18364528")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "KGM15BR71E104KT")
+)
+
+
+(part "KGM15BR71E104KT"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2024-02-18-13:01:57)
+    (utime 2024-04-02-12:57:52)
+    (packageRef "KGM15BR71E104KT")
+    (pinAssignRef "ECS_18364528")
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "NO")
+    (property "refDesPrefix" "C")
+    (property "description" "0603 25 V X7R 100nF +/-10%")
+    (property "Manufacturer_Name" "Kyocera AVX")
+    (property "Manufacturer_Part_Number" "KGM15BR71E104KT")
+    (property "Mouser_Part_Number" "581-KGM15BR71E104KT")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/KYOCERA-AVX/KGM15BR71E104KT?qs=Jm2GQyTW%2FbiCo%2Fby4Q068Q%3D%3D")
+    (property "Arrow_Part_Number" "KGM15BR71E104KT")
+    (property "Arrow_Price/Stock" "https://www.arrow.com/en/products/kgm15br71e104kt/avx?utm_currency=USD&region=europe")
+    (property "Datasheet_Link" "https://spicat.kyocera-avx.com/product/mlcc/chartview/KGM15BR71E104KT")
+    (property "compAreaTopHeight" 0.95)
+)
+
+

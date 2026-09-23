@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "Q5A_VSON-FET"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "Q5A_VSON-FET")
+        (spec "default")
+    )
+)

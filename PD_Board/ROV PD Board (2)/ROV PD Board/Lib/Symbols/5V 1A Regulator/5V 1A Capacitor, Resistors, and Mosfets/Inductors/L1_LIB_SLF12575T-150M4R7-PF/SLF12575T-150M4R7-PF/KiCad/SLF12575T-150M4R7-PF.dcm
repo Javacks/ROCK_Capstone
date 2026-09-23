@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SLF12575T-150M4R7-PF
+D TDK SLF12575 Series Wire-wound SMD Inductor 15 uH +/-20% 5A Idc
+K
+F https://product.tdk.com/system/files/dam/doc/product/inductor/inductor/smd/catalog/inductor_commercial_power_slf12575_en.pdf
+$ENDCMP
+#
+#End Doc Library

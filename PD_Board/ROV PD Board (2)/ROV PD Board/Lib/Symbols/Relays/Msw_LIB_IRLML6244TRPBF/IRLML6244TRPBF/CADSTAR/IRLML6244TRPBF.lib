@@ -1,0 +1,18 @@
+.IRLML6244TRPBF :1 ;INFINEON - IRLML6244TRPBF - MOSFET, N CH, 20V, 6.3A, SOT-23
+SOT95P237X112-3N
+*STM Q
+*NGS
+*PLB 1="G" 2="S" 3="D"
+*MXP 3
+*DFN IRLML6244TRPBF
+~!Manufacturer_Name (Infineon)
+~!Manufacturer_Part_Number (IRLML6244TRPBF)
+~!Mouser Part Number (942-IRLML6244TRPBF)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Infineon-Technologies/IRLML6244TRPBF?qs=9%252BKlkBgLFf1HkY%2F2U%252BIhLQ%3D%3D)
+~!Arrow Part Number (IRLML6244TRPBF)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/irlml6244trpbf/infineon-technologies-ag?utm_currency=USD&region=europe)
+~!Link Datasheet (http://www.infineon.com/dgdl/irlml6244pbf.pdf?fileId=5546d462533600a4015356686fed261f)
+~!Height (1.12mm)
+~!3D_Model (IRLML6244TRPBF)
+IRLML6244TRPBF
+1.1!U 2.1!U 3.1!U 

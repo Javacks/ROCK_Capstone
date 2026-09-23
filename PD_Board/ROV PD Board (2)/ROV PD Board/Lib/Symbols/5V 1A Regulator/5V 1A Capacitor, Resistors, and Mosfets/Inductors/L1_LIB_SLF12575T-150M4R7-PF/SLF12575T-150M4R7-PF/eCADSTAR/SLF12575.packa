@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "SLF12575T-150M4R7-PF"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2021-06-23-12:37:08)
+    (mountForm default
+        (footprintRef "SLF12575")
+        (spec "System")
+    )
+)

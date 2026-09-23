@@ -1,0 +1,6 @@
+"Reference","Qty","Value","DNP","Exclude from BOM","Exclude from Board","Footprint","Datasheet"
+"C1,C2","2","0.1u","","","","Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder","https://yageogroup.com/content/datasheet/asset/file/UPY-GPHC_X7R_6_3V-TO-250V"
+"C3","1","6.8u","","","","Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder","https://datasheets.kyocera-avx.com/F95.pdf"
+"H1,H2,H3,H4","4","MountingHole_Pad","","Excluded from BOM","","MountingHole:MountingHole_3.2mm_M3_ISO14580","~"
+"J1","1","0022112042","","","","Connector:FanPinHeader_1x04_P2.54mm_Vertical","https://www.molex.com/content/dam/molex/molex-dot-com/products/automated/en-us/salesdrawingpdf/637/6373/022112042_sd.pdf?inline"
+"U1","1","SCD41-D-R2","","","","Sensor:Sensirion_SCD4x-1EP_10.1x10.1mm_P1.25mm_EP4.8x4.8mm","https://sensirion.com/media/documents/E0F04247/631EF271/CD_DS_SCD40_SCD41_Datasheet_D1.pdf"

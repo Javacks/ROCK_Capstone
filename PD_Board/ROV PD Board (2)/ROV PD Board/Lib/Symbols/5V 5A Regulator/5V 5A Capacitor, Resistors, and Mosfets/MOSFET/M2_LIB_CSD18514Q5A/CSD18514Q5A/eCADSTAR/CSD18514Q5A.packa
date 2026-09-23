@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "CSD18514Q5A"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2023-12-04-12:37:04)
+    (mountForm default
+        (footprintRef "CSD18514Q5A")
+        (spec "System")
+    )
+)

@@ -1,0 +1,18 @@
+.KGM15BR71E104KT :1 ;0603 25 V X7R 100nF +/-10%
+CAPC1608X95N
+*STM C
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN KGM15BR71E104KT
+~!Manufacturer_Name (Kyocera AVX)
+~!Manufacturer_Part_Number (KGM15BR71E104KT)
+~!Mouser Part Number (581-KGM15BR71E104KT)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/KYOCERA-AVX/KGM15BR71E104KT?qs=Jm2GQyTW%2FbiCo%2Fby4Q068Q%3D%3D)
+~!Arrow Part Number (KGM15BR71E104KT)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/kgm15br71e104kt/avx?utm_currency=USD&region=europe)
+~!Link Datasheet (https://spicat.kyocera-avx.com/product/mlcc/chartview/KGM15BR71E104KT)
+~!Height (0.95mm)
+~!3D_Model (KGM15BR71E104KT)
+KGM15BR71E104KT
+1.1!U 2.1!U 

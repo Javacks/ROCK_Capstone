@@ -1,0 +1,98 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "KGM15BR71E104KT"
+   (description "0603 25 V X7R 100nF +/-10%")
+   (family "CAP")
+   (package "CAPC1608X95N")
+   (attribute "Datasheet Link" "https://spicat.kyocera-avx.com/product/mlcc/chartview/KGM15BR71E104KT")
+   (attribute "Geometry.Height" "0.95mm")
+   (attribute "Manufacturer_Name" "Kyocera AVX")
+   (attribute "Manufacturer_Part_Number" "KGM15BR71E104KT")
+   (attribute "Mouser Part Number" "581-KGM15BR71E104KT")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/KYOCERA-AVX/KGM15BR71E104KT?qs=Jm2GQyTW%2FbiCo%2Fby4Q068Q%3D%3D")
+   (attribute "Arrow Part Number" "KGM15BR71E104KT")
+   (attribute "Arrow Price/Stock" "https://www.arrow.com/en/products/kgm15br71e104kt/avx?utm_currency=USD&region=europe")
+   (gate
+    (symbol "KGM15BR71E104KT")
+    (pin "1" 1 PS)
+    (pin "2" 2 PS)
+   )
+  )
+  (symbol "KGM15BR71E104KT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 220 100) (pt 220 -100))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 280 100) (pt 280 -100))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 200 0) (pt 220 0))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 280 0) (pt 300 0))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 0 -10) (rot 0) (just TOP LEFT) (visible false))
+    (number (pt 0 10) (rot 0) (just BOTTOM LEFT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 500 0) (rot 0) (mir X) (visible true))
+    (name (pt 0 -10) (rot 0) (just TOP LEFT) (visible false))
+    (number (pt 0 10) (rot 0) (just BOTTOM LEFT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "CAPC1608X95N"
+   (units MM)
+   (layer OCCA
+    (graphic
+     (stroke 0.05)
+     (path
+      (closed true)
+      (pt -1.24 0.65)
+      (pt 1.24 0.65)
+      (pt 1.24 -0.65)
+      (pt -1.24 -0.65)
+      (pt -1.24 0.65))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -0.8 0.405)
+      (pt 0.8 0.405)
+      (pt 0.8 -0.405)
+      (pt -0.8 -0.405)
+      (pt -0.8 0.405))))
+   (leg 1 (pt -0.7 0) (padstack 0))
+   (leg 2 (pt 0.7 0) (padstack 0))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 0.78 0.99 0 0 90))
+   )
+   (model "KGM15BR71E104KT.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

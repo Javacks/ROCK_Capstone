@@ -1,0 +1,15 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,9.0.7-9.0.7~ubuntu24.04.1*%
+%TF.CreationDate,2026-05-07T16:47:43-07:00*%
+%TF.ProjectId,Barometer_Module,4261726f-6d65-4746-9572-5f4d6f64756c,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Glue,Top*%
+%TF.FilePolarity,Positive*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 9.0.7-9.0.7~ubuntu24.04.1) date 2026-05-07 16:47:43*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+G04 APERTURE END LIST*
+M02*

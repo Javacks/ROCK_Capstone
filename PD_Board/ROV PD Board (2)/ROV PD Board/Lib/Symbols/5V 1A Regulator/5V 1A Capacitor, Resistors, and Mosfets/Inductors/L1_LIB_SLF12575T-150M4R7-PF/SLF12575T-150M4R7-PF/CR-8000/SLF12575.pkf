@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "SLF12575"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "SLF12575")
+        (spec "default")
+    )
+)

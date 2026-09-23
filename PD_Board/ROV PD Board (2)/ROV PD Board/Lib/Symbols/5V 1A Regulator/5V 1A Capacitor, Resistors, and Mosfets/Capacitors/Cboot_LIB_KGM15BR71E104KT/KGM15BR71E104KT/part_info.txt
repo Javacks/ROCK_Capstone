@@ -1,0 +1,9 @@
+Manufacturer=Kyocera AVX
+PartNumber=KGM15BR71E104KT
+PartCategory=Capacitor
+PackageCategory=Capacitor Chip Non-polarised
+PinCount=2
+Version=1.1
+Released=2024-02-18 13:01:57
+Downloaded=2026-04-20 00:06:13
+3D=Y

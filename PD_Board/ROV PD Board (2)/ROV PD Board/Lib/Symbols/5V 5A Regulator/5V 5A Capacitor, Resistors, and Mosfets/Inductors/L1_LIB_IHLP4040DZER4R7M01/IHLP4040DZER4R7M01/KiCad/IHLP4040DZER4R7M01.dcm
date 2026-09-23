@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP IHLP4040DZER4R7M01
+D Vishay IHLP4040DZ-01 Series Shielded Wire-wound SMD Inductor 4.7 uH +/-20% 9.5A Idc
+K
+F https://www.vishay.com/docs/34193/ihlp-4040dz-01.pdf
+$ENDCMP
+#
+#End Doc Library

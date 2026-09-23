@@ -1,0 +1,18 @@
+.SLF12575T-150M4R7-PF :1 ;TDK SLF12575 Series Wire-wound SMD Inductor 15 uH +/-20% 5A Idc
+SLF12575
+*STM L
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN SLF12575T-150M4R7-PF
+~!Manufacturer_Name (TDK)
+~!Manufacturer_Part_Number (SLF12575T-150M4R7-PF)
+~!Mouser Part Number (810-SLF12575T-150M)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/TDK/SLF12575T-150M4R7-PF?qs=70au2ePzUrHCA64L9PZ1nA%3D%3D)
+~!Arrow Part Number (SLF12575T-150M4R7-PF)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/slf12575t-150m4r7-pf/tdk?region=nac)
+~!Link Datasheet (https://product.tdk.com/system/files/dam/doc/product/inductor/inductor/smd/catalog/inductor_commercial_power_slf12575_en.pdf)
+~!Height (-)
+~!3D_Model (SLF12575T-150M4R7-PF)
+SLF12575T-150M4R7-PF
+1.1!U 2.1!U 

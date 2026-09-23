@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "CSD18514Q5A"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "CSD18514Q5A")
+        (spec "default")
+    )
+)

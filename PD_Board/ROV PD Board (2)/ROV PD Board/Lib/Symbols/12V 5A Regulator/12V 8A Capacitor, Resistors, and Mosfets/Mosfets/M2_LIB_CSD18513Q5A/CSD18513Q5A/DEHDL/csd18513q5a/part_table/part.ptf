@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'CSD18513Q5A'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET";
+{========================================================================================}
+ "Texas Instruments", "CSD18513Q5A" (!) = "", "Q5A_VSON-FET", "Other", "595-CSD18513Q5A", "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/CSD18513Q5A?qs=34RfhUjJmKfal%252BAkBmQt6Q%3D%3D", "CSD18513Q5A", "https://www.arrow.com/en/products/csd18513q5a/texas-instruments?region=nac", "40V, N ch NexFET MOSFET, single SON5x6, 3.4mOhm", "http://www.ti.com/lit/gpn/csd18513q5a"
+END_PART
+
+END.

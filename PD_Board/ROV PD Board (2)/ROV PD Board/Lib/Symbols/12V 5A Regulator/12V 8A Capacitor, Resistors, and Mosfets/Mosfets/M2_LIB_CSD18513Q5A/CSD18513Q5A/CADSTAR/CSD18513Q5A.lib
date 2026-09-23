@@ -1,0 +1,18 @@
+.CSD18513Q5A :1 ;40V, N ch NexFET MOSFET, single SON5x6, 3.4mOhm
+Q5A_VSON-FET
+*STM Q
+*NGS
+*PLB 1="S_1" 2="S_2" 3="S_3" 4="G" 5="D_1" 6="D_2" 7="D_3" 8="D_4"
+*MXP 9
+*DFN CSD18513Q5A
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (CSD18513Q5A)
+~!Mouser Part Number (595-CSD18513Q5A)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/CSD18513Q5A?qs=34RfhUjJmKfal%252BAkBmQt6Q%3D%3D)
+~!Arrow Part Number (CSD18513Q5A)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/csd18513q5a/texas-instruments?region=nac)
+~!Link Datasheet (http://www.ti.com/lit/gpn/csd18513q5a)
+~!Height (-)
+~!3D_Model (CSD18513Q5A)
+CSD18513Q5A
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 
